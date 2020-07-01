@@ -1,0 +1,1 @@
+{"eAccion":"1","eCodPerfil":"0000001","tNombre":"Administrador","tCodSeccionInicio":"inicio","secciones":{"0":{"tCodSeccion":"inicio","bAll":"1","bDelete":"1"}}}
